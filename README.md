@@ -5,8 +5,6 @@ This repository contains the Python implementation of Low-Density Parity-Check (
 ## Project Structure
 
 - `src/`: Contains the source code for LDPC code construction, BP decoding, and simulation.
-- `docs/`: Additional documentation.
-- `results/`: Storage for simulation results and plots.
 - `tests/`: Unit tests.
 
 ## Requirements
